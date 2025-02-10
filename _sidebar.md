@@ -1,3 +1,2 @@
-- [Getting Started](README)
 - [Android Installation](install-android)
 - [Install Google Play Service](install-googleplay)
