@@ -1,6 +1,7 @@
 # Android Installation
 ### Insert SD card and launch RPi Imager
 Take your SD card and insert it into your PCs SD card slot or card reader. Open the Raspberry Pi Imager. If prompted, grant any necessary permissions for the application to run.
+![](./assets/1_rpimager.jpeg)
 > Please use a SD card! The OS can not boot from a USB stick.
 ### Choose Raspberry Pi device 
 Select **Raspberry Pi 5.**
