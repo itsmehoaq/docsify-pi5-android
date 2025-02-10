@@ -1,2 +1,3 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Getting Started](getting-started)
+- [Android Installation](install-android)
+- [Install Google Play Service](install-googleplay)
