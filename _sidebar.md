@@ -1,2 +1,4 @@
-- [Android Installation](install-android)
-- [Install Google Play Service](install-googleplay)
+- [Getting Started](README)
+- [osu! stream client setup](osu_setup)
+- [OBS setup](obs_setup)
+- [Match Procedure](match_procedure)

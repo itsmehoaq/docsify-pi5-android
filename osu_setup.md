@@ -1,0 +1,19 @@
+# osu! stream client
+- Copy file `osu!.exe` vào 1 folder trống mới để dùng 1 client trắng data cho stream (không khuyến nghị dùng client hiện dùng để chơi cho stream, vì sẽ rất dễ lag nếu có nhiều map, cũng như vì client này sẽ chỉnh 1 số setting)
+- Copy paste file `tournament.cfg` và folder `Skins` vào folder osu! vừa tạo
+- Mở file `tournament.cfg` và sửa `Height = 1080` thành `Height = 720` nếu màn hình có độ phân giải 1080p
+- Tạm thời đổi tên file `tournament.cfg` thành bất cứ gì khác
+- Mở client osu! lên và chỉnh các settings sau:
+    - Chọn save username & password và login account osu!
+    - Release stream: Cutting Edge
+    - Detail settings: tắt toàn bộ trừ `Snaking sliders`
+    - Seasonal background: Never
+    - Background dim: 85% + don't change during breaks
+    - Score meter size: 1.25
+    - Output device: (output bất kì mà đang không dùng tới - nếu không có thì bỏ qua bước này)
+    - Audio compatibility mode **ON**
+    - Ignore all beatmap skins
+    - Automatic cursor size
+- Import toàn bộ các map của vòng vào client (và check lại để đảm bảo các map chạy được + không có update map)
+- Sau khi import xong, tắt client và đổi lại tên file `tournament.cfg` rồi mở lại client osu!.
+    - Lưu ý: client osu! sẽ **luôn luôn** on top, nên streamer cần move 4 client spectator qua Desktop 2 (bằng cách dùng Win + Tab, tạo desktop mới và kéo 4 client từ Desktop 1 qua)
